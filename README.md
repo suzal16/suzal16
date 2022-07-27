@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on spaceyuz.io
+- 🔭 I’m currently working on project called spaceyuz.io
 - 🌱 I’m currently learning Ethical hacking and Full-stack development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
